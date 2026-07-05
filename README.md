@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey, I'm Hudson 👋
 
-<!--
-**HudsonNicoletti/hudsonnicoletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Developer**
 
-Here are some ideas to get you started:
+> Web & MacOS/ iOS Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full Stack Developer fluent in English, Portuguese, with international experience, developing and collaborating
+with multicultural teams in high-performance applications. Strong performance in system architecture, integrations and process automation, focusing on scalability, security and performance.
+
+## 🛠 Tech Stack
+
+![Platform](https://img.shields.io/badge/platform-macOS-blue)
+![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database-4479A1?logo=mysql&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-Agent-blueviolet)
+![Codex](https://img.shields.io/badge/Codex-AI%20Coding-black)
+
+## 📜 Certifications
+
+**Computer Science** → University Of Toronto
+
+
+**Anthropic** → Introduction to MCP, Claude Code in Action, Advanced MCP Topics
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hudsonnicoletti)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hudson19962009@gmail.com)
