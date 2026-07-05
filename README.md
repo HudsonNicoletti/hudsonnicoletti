@@ -27,8 +27,7 @@ Bilingual Full Stack Developer with international experience building high-perfo
 
 **Prompt Engineering**
 
-
-**Anthropic** → Introduction to MCP, Claude Code in Action, Advanced MCP Topics
+**Anthropic** → Introduction to MCP, Claude Code in Action, Advanced MCP Topics, AI Fluency
 
 ## 📫 Let's Connect
 
