@@ -25,6 +25,8 @@ Bilingual Full Stack Developer with international experience building high-perfo
 
 **Computer Science** → University Of Toronto
 
+**Prompt Engineering**
+
 
 **Anthropic** → Introduction to MCP, Claude Code in Action, Advanced MCP Topics
 
