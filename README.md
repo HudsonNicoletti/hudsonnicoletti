@@ -4,8 +4,7 @@
 
 > Web & MacOS/ iOS Development.
 
-Full Stack Developer fluent in English, Portuguese, with international experience, developing and collaborating
-with multicultural teams in high-performance applications. Strong performance in system architecture, integrations and process automation, focusing on scalability, security and performance.
+Bilingual Full Stack Developer with international experience building high-performance applications alongside multicultural teams. Proven expertise in system architecture, process automation, and integrations, with a strong focus on scalability, security, and performance. Dedicated to delivering scalable technological solutions that drive efficiency, innovation, and sustainable growth.
 
 ## 🛠 Tech Stack
 
